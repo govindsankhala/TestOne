@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-6983418064894555927-240651",
+  "private_key_id": "e2c92fb5d5a98b4958079f5072f9369ea533670e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCMnVDibniQUvbx\nghRSX5BKYgnDx/ZYgbUHjeXlkr1Xkz2B9h+QoLK1enjZ+mGVqjrxzKySVvZGnLh+\n1CC5jiJ7UCOftCloTUQndkKfrR06VNjDkGQLiwl2x00YDyBrcPgxGTQs3b1fm3fU\nl3igYVuJAHBWMCuFsSI9auci3pitXXMMD56qWlMcAydJf2PGg7GQ6jgwgDAmu96s\nag6/qm3fRuSLFa0ZpOX520Xzhk7sH3JlNKNNgagxS+/oacHwmbMol1J3MpFGv+RN\n1rZgcLs33gWvJrqWWJHtWoojDODpC1uuwALIJkK85F1ZvH2hWUr33cFyhUME8kK0\nzLfuafTrAgMBAAECggEAMYqTntNxItg4LOq5ojQNMEfOTO48uv4n+9tgrju+/gXg\nW9ONV3VmwU2/Gn1+uC5byilke8KrzkEVN4ohZX7QY0Xe5zuggyEF7ClcW8mwTIbs\nQCq1NOPtl62sWdeqgnAw4YuRuGT/fZnW5E3hsA/dIi3HZnZePyIjgCQT/1MR07Jd\nNm7dv+OSGaAzGgryCchkuUuVPCq+obbx4p7H8qkQ9MeuQVk2jLDg222rrTob6u9w\n0/wugvEDfg2O3hRGcSOYZJMdvC6w2QoQK9qqBA6ETL5Ne8ldI1j5VZ4v+RxLc00O\nlUnILk9Xa5LVbDQX8dJLuNLuWojY7Ui03IAZLbKb4QKBgQDFCq3pf4cnDe/9ZCCa\n3Qrnv0AV257jGMmIj6fRmOr6tUUeHT/zgLQEbfElqVibEwY+dzO9ZxEQ9fkQfT3w\n1edFDCGS9f9ypibyz+fHPeVfKqdac/jhoHJDfouOkRl0Z5UjnEq6gN21Oj1CNawU\nVsU8me1p/Sfdkm4OaQQ9+SPguQKBgQC2sFWe6xT2eBX+bprxN2i03jCGhFU35TIA\nritLIJJ8KyF4/FTfVrxEVCm7O4Br4aouA/0wgOjsvtOgpdTHFozOTPAfnXHcZXLy\nF2905z6zIzQdyBYLYGaNxxbDybGPgDyRUawlnos2C6npPNaDWMoOHFGEhavxYvn4\nJX/+KZAIwwKBgFM/vNSfXdHBULkFGcV0SIw7QG87t/iI23UIBMZITlcYSRh9ESzn\nHqeUb8MStm3mbsfrgv+t0QcSdWVjFM1xAmIoyvKVXpTo4CHMd0e1vfgkREqyHt/s\n8vnTOFFGurN0pA1ElkoP8hwEfCdCF+8L7g85lZYnMDWsDTWnZvRsE515AoGAai8b\n1P62dHtf7T7EeCfIiDgM5GLOVWq2IYcaStRn0BwRnIytmBKF4wE4MEdpYUsM6yoO\nY77Jo7FWuC0q+3yz4sT9XKLap0uf/+53Le+qldyEUjsV9Q7XDNkG9k2pEstqaNyb\nvlHkgElPPO3LkRRufL0g9HHteqQYvo6tUkE+IpkCgYEAgpKQVF1dqBDrEXfL5q5v\nxNbsGnXot2/RMwAI91fRL2Zm/8CDrX0scaEcvqSjyvKTuMTZ4lGsCNJpzbv0C3RB\n+9GqLURdY/Y208AAJD3kTEz/jj7ArOksaEcrpu1Gmvyr7SixKYYPylYOaX8Pi86f\noQpZHDWtBij4MRowPiZ3dQ8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "medit-bitrise-android@api-6983418064894555927-240651.iam.gserviceaccount.com",
+  "client_id": "107231694913050871737",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/medit-bitrise-android%40api-6983418064894555927-240651.iam.gserviceaccount.com"
+}
